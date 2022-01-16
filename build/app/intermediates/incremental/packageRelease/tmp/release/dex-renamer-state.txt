@@ -1,0 +1,4 @@
+#Sun Jan 16 12:39:06 IST 2022
+base.0=G\:\\Project\\Weather_app\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
